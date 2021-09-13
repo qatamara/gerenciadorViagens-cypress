@@ -1,9 +1,9 @@
 # API REST gerenciador-viagens 
-## SOBRE
+## 📣SOBRE
 
 O projeto API REST gerenciador-viagens foi desenvolvido durante o modulo de automação de testes com *Cypress* com o objetivo de colocar em pratica os conhecimentos adquiridos no modulo.
 
-## Tecnologias utilizadas
+## 💻Tecnologias utilizadas
 
 O projeto foi desenvolvido usando as seguintes tecnologias
 
@@ -11,6 +11,17 @@ O projeto foi desenvolvido usando as seguintes tecnologias
 - [Cypress](https://www.cypress.io/)
 - [VScode](https://code.visualstudio.com/)
 - [NodeJS](https://nodejs.org/en/download/)
+
+---
+# Indice
+
+- [Sobre](#-sobre)
+- [Tecnologias-utilizadas](#-tecnologias-utilizadas)
+
+---
+Desenvolvido por 💗 *Tamara Aquino* .
+
+
 
 
 
